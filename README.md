@@ -1,6 +1,6 @@
 # Hi, I'm Soohwan
 
-Electrical & Electronic Engineering (EE) student  
+Electrical Engineering student  
 interested in **AI, game logic, and system-level problem solving**.
 
 I enjoy building things end-to-end, but I care more about  
