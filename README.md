@@ -1,4 +1,4 @@
-# Hi, I'm Soohwan 👋
+# Hi, I'm Soohwan
 
 Electrical & Electronic Engineering (EE) student  
 interested in **AI, game logic, and system-level problem solving**.
@@ -9,7 +9,7 @@ and **how performance can be improved through iteration**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - EE undergraduate with a strong interest in software-driven systems
 - Mainly work with **Python**, focusing on algorithms and practical optimization
 - Prefer explaining trade-offs, failure cases, and improvements  
@@ -18,9 +18,9 @@ and **how performance can be improved through iteration**.
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🧠 Gomoku Minimax AI (Pygame)
+### 01. Gomoku Minimax AI (Pygame)
 - Gomoku AI built with **Minimax + Alpha-Beta Pruning**
 - Designed a **pattern-based heuristic evaluation function**
 - Reduced search space by generating moves only near existing stones
@@ -31,7 +31,7 @@ and **how performance can be improved through iteration**.
 
 ---
 
-### 🤖 Game Automation Macro
+### 02. Game Automation Macro
 - GUI-based automation tool for repetitive in-game inputs
 - Features include coordinate presets, config file management, and logging
 - Experience in turning a script into a **usable application**
@@ -49,7 +49,7 @@ and **how performance can be improved through iteration**.
 
 ---
 
-## ✍ Writing
+## Writing
 I write about development processes, design decisions,  
 and what I learned from things that did *not* work as expected.
 
@@ -58,6 +58,6 @@ and what I learned from things that did *not* work as expected.
 
 ---
 
-## 📌 Note
+## Note
 I value **understanding and iteration** over quick solutions,  
 and I try to reflect that mindset in both code and documentation.
